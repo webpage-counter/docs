@@ -6,7 +6,7 @@ AMI used for the project - ami-0230ee9fd9ee23718
 
 
 ### TO DO:
-- [ ] Create a repo for packer-aws-bionic box that is going to be used for this project
+
 - [ ] Create a repo `terraform-aws-network` where will be the code for the network module
 - [ ] Create a module inside TF Cloud for the networking part
 - [ ] Create a repo `ops-aws-network` and deploy the network module with TF Cloud
@@ -24,3 +24,5 @@ AMI used for the project - ami-0230ee9fd9ee23718
 
 
 ### DONE:
+
+- [x] Create a repo and ami for packer-aws-bionic box that is going to be used for this project
