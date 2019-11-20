@@ -2,6 +2,8 @@
 
 ## Detailed READMEs with explanation can be found in each of the repos
 
+AMI used for the project - ami-0230ee9fd9ee23718
+
 
 ### TO DO:
 - [ ] Create a repo for packer-aws-bionic box that is going to be used for this project
