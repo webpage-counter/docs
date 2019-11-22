@@ -7,12 +7,6 @@ AMI used for the project - ami-0230ee9fd9ee23718
 
 ### TO DO:
 
-- [ ] Create a repo `terraform-aws-network` where will be the code for the network module
-- [ ] Create a module inside TF Cloud for the networking part
-- [ ] Create a repo `ops-aws-network` and deploy the network module with TF Cloud
-- [ ] Create a repo `terraform-aws-consul` where will be the code for the consul module
-- [ ] Create a module inside TF Cloud for the consul part
-- [ ] Create a repo `ops-aws-consul` and deploy the consul module with TF Cloud
 - [ ] Create a repo `terraform-aws-vault` where will be the code for the vault module
 - [ ] Create a module inside TF Cloud for the vault part
 - [ ] Create a repo `ops-aws-vault` and deploy the vault module with TF Cloud
@@ -26,3 +20,9 @@ AMI used for the project - ami-0230ee9fd9ee23718
 ### DONE:
 
 - [x] Create a repo and ami for packer-aws-bionic box that is going to be used for this project
+- [x] Create a repo `terraform-aws-network` where will be the code for the network module
+- [x] Create a module inside TF Cloud for the networking part
+- [x] Create a repo `ops-aws-network` and deploy the network module with TF Cloud
+- [x] Create a repo `terraform-aws-consul` where will be the code for the consul module
+- [x] Create a module inside TF Cloud for the consul part
+- [x] Create a repo `ops-aws-consul` and deploy the consul module with TF Cloud
