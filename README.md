@@ -7,8 +7,7 @@ AMI used for the project - ami-0230ee9fd9ee23718
 
 ### TO DO:
 
-- [ ] Create a repo `docker-python-pagecounter` that is going to package every new version of the app inside a container
-- [ ] Create a repo `terraform-python-pagecounter` that is going to create a load balancer and start the nomad jobs and run the app
+
 
 
 ### DONE:
@@ -26,6 +25,5 @@ AMI used for the project - ami-0230ee9fd9ee23718
 - [x] Create a repo `terraform-aws-vault` where will be the code for the vault module
 - [x] Create a module inside TF Cloud for the vault part
 - [x] Create a repo `ops-aws-vault` and deploy the vault module with TF Cloud
-- [x] Create a repo `terraform-aws-redis` where will be the code for the redis module
-- [x] Create a module inside TF Cloud for the redis part
-- [x] Create a repo `ops-aws-redis` and deploy the redis module with TF Cloud
+- [x] Create a repo `docker-python-pagecounter` that is going to package every new version of the app inside a container
+- [x] Create a repo `terraform-python-pagecounter` that is going to create a load balancer and start the nomad jobs and run the app
