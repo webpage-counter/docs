@@ -7,7 +7,12 @@ AMI used for the project - ami-0230ee9fd9ee23718
 
 ### TO DO:
 
-
+- [ ] Merge DEV and Travis part of the app
+- [ ] Make nomad UI/API public
+- [ ] Run nomad job using terraform-nomad provider
+- [ ] Test a new release of the application with no downtime
+- [ ] Add prometheus to consul, nomad and vault
+- [ ] Deploy my own PTFE
 
 
 ### DONE:
