@@ -7,7 +7,6 @@ AMI used for the project - ami-0230ee9fd9ee23718
 
 ### TO DO:
 
-- [ ] Merge DEV and Travis part of the app
 - [ ] Make nomad UI/API public
 - [ ] Run nomad job using terraform-nomad provider
 - [ ] Test a new release of the application with no downtime
@@ -32,3 +31,4 @@ AMI used for the project - ami-0230ee9fd9ee23718
 - [x] Create a repo `ops-aws-vault` and deploy the vault module with TF Cloud
 - [x] Create a repo `docker-python-pagecounter` that is going to package every new version of the app inside a container
 - [x] Create a repo `terraform-python-pagecounter` that is going to create a load balancer and start the nomad jobs and run the app
+- [x] Merge DEV and Travis part of the app
