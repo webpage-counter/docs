@@ -2,7 +2,7 @@
 
 ## Detailed READMEs with explanation can be found in each of the repos
 
-AMI used for the project - ami-0cc66cb5eb4233ea4
+AMI used for the project - ami-0fe2e9b1927cbdc98
 
 
 ### TO DO:
