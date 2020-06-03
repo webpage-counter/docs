@@ -7,8 +7,6 @@ AMI used for the project - ami-0fe2e9b1927cbdc98
 
 ### TO DO:
 
-- [ ] Run nomad job using terraform-nomad provider
-- [ ] Test a new release of the application with no downtime
 - [ ] Add prometheus to consul, nomad and vault
 - [ ] Deploy my own PTFE
 
@@ -32,3 +30,5 @@ AMI used for the project - ami-0fe2e9b1927cbdc98
 - [x] Create a repo `terraform-python-pagecounter` that is going to create a load balancer and start the nomad jobs and run the app
 - [x] Merge DEV and Travis part of the app
 - [x] Make nomad UI/API public
+- [x] Run nomad job using terraform-nomad provider
+- [x] Test a new release of the application with no downtime
